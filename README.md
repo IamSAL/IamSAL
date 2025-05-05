@@ -33,7 +33,7 @@
 </p>
 <h3>Numbers</h3>
 
-![salman's Stats](https://github-readme-stats.vercel.app/api?username=iamsal&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+<!---![salman's Stats](https://github-readme-stats.vercel.app/api?username=iamsal&theme=darcula&show_icons=true&hide_border=true&count_private=true) -->
 
 ![salman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamsal&theme=darcula&hide_border=true)
 
