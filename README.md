@@ -1,4 +1,4 @@
-## Hi there 👋, Nice to see you.
+## Hi there 👋, Nice to meet you.
 <p> I'm Salman, Fullstack developer from <img src="https://flagcdn.com/bd.svg" width="13"/> <b>Dhaka, BD</b> </p>
 <p>
  
